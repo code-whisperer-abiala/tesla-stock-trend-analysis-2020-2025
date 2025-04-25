@@ -57,7 +57,13 @@ The dashboard and supporting visuals were built in Power BI, with preprocessing 
 - Integrate sentiment signals from social media
 - Publish dashboard as an embedded link when live access becomes available
 
+## Update (as of April 2025)
 
+While this case study focused on Tesla’s stock performance through April 2025, recent developments provide additional context.
+
+Following Musk’s announcement to reduce his engagement with the Department of Government Efficiency (DOGE), Tesla’s stock has been steadily rebounding and is now trading above $250, despite earlier concerns over falling profits.
+
+This reinforces one of the case study’s key insights: narrative shifts, not just financial fundamentals, play a powerful role in Tesla’s market behavior.
 
 ##  About the Analyst
 Grace Isiaka is a data analyst passionate about building dashboards and uncovering the story behind the data. She specializes in creating visual, business-driven insights across analytics and applied machine learning.
