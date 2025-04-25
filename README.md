@@ -50,9 +50,8 @@ The dashboard and supporting visuals were built in Power BI, with preprocessing 
 > 
 > *(Live version to be hosted with Power BI Pro soon.)*
 
----
 
-## 📄 Download Full Report
+## Download Full Report
 
 Prefer to read the complete case study in report format?
 
