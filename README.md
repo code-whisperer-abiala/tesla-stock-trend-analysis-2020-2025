@@ -62,5 +62,7 @@ The dashboard and supporting visuals were built in Power BI, with preprocessing 
 ##  About the Analyst
 Grace Isiaka is a data analyst passionate about building dashboards and uncovering the story behind the data. She specializes in creating visual, business-driven insights across analytics and applied machine learning.
 
-🔗 [Portfolio (Notion)](#) | [LinkedIn](#)
+[View the full Notion Case Study](https://www.notion.so/Tesla-Stock-Performance-Case-Study-2020-2025-1e0ace9f2e3a8086a99ee31db17c8df2)  
+
+[Connect on LinkedIn](https://www.linkedin.com/in/grace-isiaka-97002aa8/)
 
