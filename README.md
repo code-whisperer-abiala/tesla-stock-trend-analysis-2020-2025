@@ -50,7 +50,15 @@ The dashboard and supporting visuals were built in Power BI, with preprocessing 
 > 
 > *(Live version to be hosted with Power BI Pro soon.)*
 
+---
 
+## 📄 Download Full Report
+
+Prefer to read the complete case study in report format?
+
+**Download Tesla Case Study (PDF):** [Tesla_Case_Study.pdf](https://drive.google.com/file/d/118UptGFgFvudg7zhamyRvD1PrmPlollm/view?usp=sharing)
+
+This includes the full narrative, visuals, insights, and layout as originally formatted for portfolio submission.
 
 ## Next Steps
 - Build a forecasting model for Q1 2026 (ARIMA / Prophet)
