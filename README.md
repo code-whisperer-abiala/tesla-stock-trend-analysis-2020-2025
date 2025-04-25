@@ -46,8 +46,7 @@ The dashboard and supporting visuals were built in Power BI, with preprocessing 
 
 
 ##  Dashboard Access
-> Download static version: [Tesla_Stock_Dashboard.pdf][(./Tesla_Case_Study.pdf) (https://drive.google.com/file/d/118UptGFgFvudg7zhamyRvD1PrmPlollm/view?usp=sharing)
-> ))  
+> **Download static version:** [Tesla_Stock_Dashboard.pdf](https://drive.google.com/file/d/118UptGFgFvudg7zhamyRvD1PrmPlollm/view?usp=sharing) 
 > *(Live version to be hosted with Power BI Pro soon.)*
 
 
